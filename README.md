@@ -15,6 +15,7 @@ To run the project locally:
 
 ### webSocketClient
 - Navigate to the webSocketClient directory.
-- Run `go run main.go` to start the webSocketClient.
+- Run `npm install` to install dependencies.
+- Run `npm start` to start the webSocketClient.
   
 
