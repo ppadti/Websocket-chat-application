@@ -1,5 +1,5 @@
 # Websocket-groupchat-application
-This project is a WebSocket-powered group chat application built using React. It allows users to join chat rooms, exchange messages in real-time.
+This project is a WebSocket-powered group chat application built using JavaScript. It allows users to join chat rooms, exchange messages in real-time.
 
 ## Features
 
